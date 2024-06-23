@@ -1,5 +1,6 @@
 # Theatre Management System
-##Overview
+## Overview
+
 The Theatre Management System (TMS) is a comprehensive solution designed to streamline the operations of a theatre or cinema. It provides an integrated platform to manage various aspects such as show scheduling, ticket booking, seat allocation, and customer management. TMS aims to enhance the efficiency of theatre operations and improve the overall experience for both staff and patrons.
 ##Features
 1. Show Scheduling
